@@ -1,9 +1,9 @@
-How to run?
-in shell run command
+How to run?  
+in shell run command  
 **go run main.go <no absen>**
 
 
 Example
-'''sh
+```sh
 go run main.go 1
-'''
+```
