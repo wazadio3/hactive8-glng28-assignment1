@@ -1,6 +1,6 @@
 How to run?  
 in shell run command  
-**go run main.go <no absen>**
+**go run main.go \<no absen\>**
 
 
 Example
